@@ -30,29 +30,6 @@ This project includes:
 
 E-Commerce-Customer-Sales-Insights/
 │
-│
-│
-├── README.md
-│
-│
-│
-│
-├── Datasets/
-│   ├── Raw Online Retail.zip
-│   ├── cleaned ecommerce data.zip
-│   └── rfm customer segments.csv
-│
-│
-├── Notebooks/
-│   └── ecommerce customer sales analysis.ipynb│
-│
-├── SQL/
-│   └── Ecommerce Sales Analysis.sql
-│
-│
-├── PowerBI/
-│   └── Ecommerce Sales Dashboard.pbix
-│
 ├── Images/
     ├── pbi executive overview.png
     ├── pbi customer segmentation.png
@@ -66,6 +43,33 @@ E-Commerce-Customer-Sales-Insights/
     ├── python revenue by day.png
     ├── python top customers.png
     └── python top products revenue.png
+│
+├── Notebooks/
+│   └── ecommerce customer sales analysis.ipynb│
+│
+├── PowerBI/
+│   └── Ecommerce Sales Dashboard.pbix
+│
+├── SQL/
+│   └── Ecommerce Sales Analysis.sql
+│
+├── README.md
+│
+│
+│
+│
+├── Datasets/
+│   ├── Raw Online Retail.zip
+│   ├── cleaned ecommerce data.zip
+│   └── rfm customer segments.csv
+│
+│
+
+│
+
+│
+│
+
 
 ```
 
