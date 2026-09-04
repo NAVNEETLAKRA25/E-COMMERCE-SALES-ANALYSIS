@@ -30,6 +30,13 @@ This project includes:
 
 E-Commerce-Customer-Sales-Insights/
 │
+├── Datasets/
+│   ├── Raw Online Retail.zip
+│   ├── cleaned ecommerce data.zip
+│   └── rfm customer segments.csv
+│
+│
+│
 ├── Images/
     ├── pbi executive overview.png
     ├── pbi customer segmentation.png
@@ -54,21 +61,6 @@ E-Commerce-Customer-Sales-Insights/
 │   └── Ecommerce Sales Analysis.sql
 │
 ├── README.md
-│
-│
-│
-│
-├── Datasets/
-│   ├── Raw Online Retail.zip
-│   ├── cleaned ecommerce data.zip
-│   └── rfm customer segments.csv
-│
-│
-
-│
-
-│
-│
 
 
 ```
